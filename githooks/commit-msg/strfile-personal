@@ -1,2 +1,2 @@
-#!bash
+#!/usr/local/bin/bash
 strfile PersonalFortune PersonalFortune.dat
